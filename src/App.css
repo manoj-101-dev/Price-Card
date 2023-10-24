@@ -1,0 +1,41 @@
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.price-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 480px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: white;
+  flex-wrap: wrap;
+}
+#card-button {
+  background-color: blue;
+  margin-left: 45px;
+  margin-top: 8px;
+  border-radius: 5px;
+  height: 25px;
+  width: 100px;
+  color: white;
+  cursor: pointer;
+}
+.head {
+  margin-left: 40%;
+}
+
+#card-button:hover {
+  background-color: rgb(99, 179, 214);
+}
+.title {
+  text-align: center;
+  margin: 5px;
+}
