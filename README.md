@@ -29,6 +29,6 @@ To view the subscription plans and their details:
 - CSS (for styling)
 - HTML
 
-#live site
+##live site
 
-- [@vitejs/plugin-react-swc]() 
+- [Price-Card](https://price-card-psi.vercel.app/) 
