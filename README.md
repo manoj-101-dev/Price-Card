@@ -1,8 +1,34 @@
-# React + Vite
+# Subscription Plan Showcase - React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+### App Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Subscription Plan Showcase is a React-based web application that displays different subscription plans - Free, Plus, and Pro - along with their respective details and pricing information.
+
+### Detailed Description
+
+This application is designed to provide users with a visual representation of various subscription tiers and their features. It caters to businesses or individuals seeking different levels of service with varying features and pricing structures.
+
+The key features of this app include:
+- Displaying subscription plans (Free, Plus, Pro) with pricing details.
+- Highlighting specific features available in each plan.
+- Responsive design ensuring compatibility with various devices.
+
+## Usage
+
+To view the subscription plans and their details:
+- Clone this repository: `git clone <repository-url>`
+- Install dependencies: `npm install`
+- Run the app: `npm start`
+- Access the app via your browser at `http://localhost:3000`
+
+## Technologies Used
+
+- React.js
+- CSS (for styling)
+- HTML
+
+#live site
+
+- [@vitejs/plugin-react-swc]() 
